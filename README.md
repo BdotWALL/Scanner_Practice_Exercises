@@ -1,4 +1,6 @@
 Scanner_Practice_Exercises
+
+
 1."Greeting"
 Create a class called "Greeting" that accepts user input asking for the user's name.
 
